@@ -2,8 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08e25ed-e601-4fcd-9d18-8332cf95b808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/ALLY_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/American Express_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Associated Banc-Corp_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/BMO Financial Group2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/BNYMellon2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Bank of the West - 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/CIBC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Capital One2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/East West Bank 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/FIRST HORIZON_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Fifth Third Bank_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/First Republic Bank 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/HSBC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/IBERIA BANK Corp 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/JPM_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/NYSE_BAC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/NYSE_C_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Northern Trust Company2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/PNC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Popular_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Raymond James_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/RegionsBank_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/TD Bank2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/Truist_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/UBS_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/UMB_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/USBancorp_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2018/WFC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/ALLY_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/American Express_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Associated Banc-Corp_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/BAC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/BMO Financial Group2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Bank of the West - 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/CIBC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/C_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Capital One2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/East West Bank 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/FIRST HORIZON_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Fifth Third Bank_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/HSBC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/IBERIA BANK Corp 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/JPM_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Northern Trust Company2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/PNC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Popular_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Raymond James_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/TD Bank2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Truist_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/UBS_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/UMB_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/USBancorp_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/WFC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2019/Zionsbancorp 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Read Me Pliz.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/ALLY_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/American Express_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Associated Banc-Corp_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/BMO Financial Group2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/BNYMellon2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Bank of the West - 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/CIBC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Capital One2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/East West Bank 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/FIRST HORIZON_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Fifth Third Bank_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/First Republic Bank 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/HSBC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/IBERIA BANK Corp 2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/JPM_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/NYSE_BAC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/NYSE_C_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Northern Trust Company2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/PNC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Popular_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Raymond James_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/RegionsBank_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/TD Bank2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/Truist_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/UBS_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/UMB_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/USBancorp_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2018/WFC_2018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/ALLY_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/American Express_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Associated Banc-Corp_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/BAC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/BMO Financial Group2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Bank of the West - 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/CIBC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/C_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Capital One2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/East West Bank 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/FIRST HORIZON_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Fifth Third Bank_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/HSBC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/IBERIA BANK Corp 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/JPM_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Northern Trust Company2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/PNC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Popular_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Raymond James_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/TD Bank2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Truist_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/UBS_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/UMB_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/USBancorp_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/WFC_2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/UTF-8/2019/Zionsbancorp 2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sollte so aussehen.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_analyser.py" beforeDir="false" afterPath="$PROJECT_DIR$/document_analyser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +138,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sensorplatform" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="document_analyser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -72,7 +184,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591703580705</updated>
-      <workItem from="1591703581924" duration="4096000" />
+      <workItem from="1591703581924" duration="4936000" />
+      <workItem from="1592044496849" duration="21725000" />
     </task>
     <servers />
   </component>
@@ -80,28 +193,56 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1313" height="466" key="DebuggerActiveHint" timestamp="1592081096281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1313" height="466" key="DebuggerActiveHint/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081096281" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591704697347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591704697347" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591705237422">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592081785877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591705237422" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591705237422">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081785877" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592081785877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591705237422" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591705237422">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081785877" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592081785876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591705237422" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591705237422">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081785876" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592081785877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591705237422" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081785877" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592081413302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081413302" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592081413301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081413301" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592081413301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081413301" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592081413301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592081413301" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1592046743110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592046743110" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1592079502168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592079502168" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DocumentAnalysis$document_analyser.coverage" NAME="document_analyser Coverage Results" MODIFIED="1591705237412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DocumentAnalysis$document_analyser.coverage" NAME="document_analyser Coverage Results" MODIFIED="1592081785869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
