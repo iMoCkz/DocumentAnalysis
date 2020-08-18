@@ -7,13 +7,13 @@ from pathlib import Path
 # root dir
 root = 'C:/Users/Maxe/PycharmProjects/DocumentAnalysis/'
 #
-words_to_find = ['vehicle', 'automotive']
+words_to_find = ['artificial intelligence', 'automotive']
 # tf_idf file writing
 wrote_tf_idf_header = False
 tf_idf_file_idx = 0
 #
-vectorizer_tf_idf = TfidfVectorizer(max_df=.65, min_df=1, stop_words=None, use_idf=True, norm=None, vocabulary=words_to_find)
-vectorizer_cnt = CountVectorizer(stop_words=None, vocabulary=words_to_find)
+vectorizer_tf_idf = TfidfVectorizer(max_df=.65, min_df=1, stop_words=None, use_idf=True, norm=None, vocabulary=words_to_find, ngram_range=(1, 3))
+vectorizer_cnt = CountVectorizer(stop_words=None, vocabulary=words_to_find, ngram_range=(1, 3))
 #
 years = ['2018', '2019']
 year_folders = [root + folder for folder in years]
